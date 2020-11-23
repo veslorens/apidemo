@@ -9,6 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "<script>console.log('hakuna@footer');<\/script>"
+    "name": "<script>console.log('hakuna@footer');<\/script>",
+    "skrip": "<script>console.log('skrip@footer');</script>"
   }
 }
